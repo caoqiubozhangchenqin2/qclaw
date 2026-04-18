@@ -1,0 +1,197 @@
+{
+  "version": 1,
+  "skills": {
+    "fetch-url": {
+      "name": "Fetch Url",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=fetch-url",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "smart-web-fetch": {
+      "name": "Smart Web Fetch",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=smart-web-fetch",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "crawl4ai": {
+      "name": "Crawl4ai",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=crawl4ai",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "tavily-search-pro": {
+      "name": "Tavily Search Pro",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=tavily-search-pro",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "browser-use": {
+      "name": "Browser Use",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=browser-use",
+      "source": "skillhub",
+      "version": "1.0.2"
+    },
+    "data-analysis": {
+      "name": "Data Analysis",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=data-analysis",
+      "source": "skillhub",
+      "version": "1.0.2"
+    },
+    "finance-data-fetcher": {
+      "name": "Finance Data Fetcher",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=finance-data-fetcher",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "stock-analysis": {
+      "name": "Stock Analysis",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=stock-analysis",
+      "source": "skillhub",
+      "version": "6.2.0"
+    },
+    "youtube-transcript": {
+      "name": "YouTube Transcript",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=youtube-transcript",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "news": {
+      "name": "News",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=news",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "weather": {
+      "name": "Weather",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=weather",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "imap-smtp-email": {
+      "name": "imap-smtp-email",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=imap-smtp-email",
+      "source": "skillhub",
+      "version": "0.0.10"
+    },
+    "notion": {
+      "name": "Notion",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=notion",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "web-search": {
+      "name": "Web Search",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=web-search",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "web-search-pro": {
+      "name": "Web Search Pro",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=web-search-pro",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "web-scraper": {
+      "name": "Web Scraper",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=web-scraper",
+      "source": "skillhub",
+      "version": "0.1.1"
+    },
+    "web-scraping": {
+      "name": "Web Scraping",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=web-scraping",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "web-browsing": {
+      "name": "Web Browsing",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=web-browsing",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "web-tools-guide": {
+      "name": "web-tools-guide",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=web-tools-guide",
+      "source": "skillhub",
+      "version": "1.0.2"
+    },
+    "web-search-instant": {
+      "name": "Web Search Instant",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=web-search-instant",
+      "source": "skillhub",
+      "version": "1.1.0"
+    },
+    "eastmoney-financial-data": {
+      "name": "eastmoney skills",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=eastmoney-financial-data",
+      "source": "skillhub",
+      "version": "1.0.2"
+    },
+    "mx-finance-data": {
+      "name": "All-Market Financial Data Hub",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=mx-finance-data",
+      "source": "skillhub",
+      "version": "1.0.8"
+    },
+    "mx-findata": {
+      "name": "MX Fin Data",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=mx-findata",
+      "source": "skillhub",
+      "version": "1.0.2"
+    },
+    "mx-macro-data": {
+      "name": "Global Macro Database Assistant",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=mx-macro-data",
+      "source": "skillhub",
+      "version": "1.0.9"
+    },
+    "data-analyst": {
+      "name": "Data Analyst",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=data-analyst",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "data-visualization-2": {
+      "name": "Data Visualization",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=data-visualization-2",
+      "source": "skillhub",
+      "version": "0.1.5"
+    },
+    "data-analysis-pro": {
+      "name": "data analysis pro",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=data-analysis-pro",
+      "source": "skillhub",
+      "version": "1.0.4"
+    },
+    "python-dataviz": {
+      "name": "Python Dataviz",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=python-dataviz",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "senior-data-scientist": {
+      "name": "Senior Data Scientist",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=senior-data-scientist",
+      "source": "skillhub",
+      "version": "2.1.1"
+    },
+    "baidu-baike-data": {
+      "name": "baidu baike search",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=baidu-baike-data",
+      "source": "skillhub",
+      "version": "1.1.0"
+    },
+    "a-share-real-time-data": {
+      "name": "A股实时行情数据",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=a-share-real-time-data",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "webclaw": {
+      "name": "WebClaw",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=webclaw",
+      "source": "skillhub",
+      "version": "2.1.3"
+    }
+  }
+}
