@@ -1,33 +1,51 @@
 @echo off
-set LOGFILE=C:\Users\Administrator\.qclaw\workspace-agent-71ec60f0\backup.log
-set DATESTR=
+chcp 65001 >nul
+setlocal
 
-:: Get date string
-for /f "tokens=2 delims==" %%I in ('wmic os get localdatetime /value') do set datetime=%%I
-set DATESTR=%datetime:~0,4%-%datetime:~4,2%-%datetime:~6,2%
+set REPO=C:\Users\Administrator\.qclaw\backup-qclaw
+set WORKSPACE=C:\Users\Administrator\.qclaw\workspace-agent-71ec60f0
+set LOG=%WORKSPACE%\backup.log
 
-echo [%DATESTR% %time%] Starting daily backup... >> %LOGFILE%
+echo [%date% %time%] ====== 备份开始 ====== >> %LOG%
 
-cd /d C:\Users\Administrator\.qclaw\workspace-agent-71ec60f0\qclaw
+cd /d %REPO%
+git fetch origin >> %LOG% 2>&1
 
-:: Check if there are changes
-git add -A
-git diff --cached --quiet
-if %errorlevel% equ 0 (
-    echo [%DATESTR% %time%] No changes to commit. >> %LOGFILE%
-    goto notify
+for %%F in (AGENTS.md HEARTBEAT.md IDENTITY.md MEMORY.md SOUL.md TOOLS.md USER.md 上课记录.md schedule.md) do (
+    if exist "%WORKSPACE%\%%F" copy /Y "%WORKSPACE%\%%F" "%REPO%\%%F" >> %LOG% 2>&1
 )
 
-:: Commit and push
-git commit -m "daily-backup-%DATESTR%" >> %LOGFILE% 2>&1
-git push origin qclaw-backup >> %LOGFILE% 2>&1
-echo [%DATESTR% %time%] Backup completed with changes. >> %LOGFILE%
-goto notify
+xcopy /Y /E "%WORKSPACE%\memory\*" "%REPO%\memory\" >> %LOG% 2>&1
 
-:notify
-:: Send notification via OpenClaw
-curl -s -X POST "http://localhost:3737/api/message/send" ^
-  -H "Content-Type: application/json" ^
-  -d "{\"channel\":\"openclaw-weixin\",\"to\":\"o9cq8039msH2o9EJp56OikcRc_CY@im.wechat\",\"message\":\"[备份完成] %DATESTR% 下午4点备份已执行，详见 backup.log\"}" >> %LOGFILE% 2>&1
+for %%F in (
+    .consolidate-state.json add_cron.bat all_windows.py auto_confirm_qbt.py
+    backup-report-*.md backup.log batch_*.py check_*.ps1 chrome_*.ps1
+    click_*.py config_qbt.ps1 cron_list.bat daily_backup.bat debug_tk.py
+    dl_*.bat dl_remaining.py enable_dht.py extract_magnet.py
+    find_*.ps1 find_*.py fix_mida523.py get_ch_magnet.py get_magnet.py
+    hawa_utf8.txt list_windows.py magnets.txt mudr363_search.html
+    open_all*.bat open_mudr363ch.bat package*.json page_structure.ps1
+    pil_screen.py press_enter.py qbt_window_tree.py read_prefs.py
+    results*.txt scrape_*.py screen_*.ps1 search_chuanmei.py search_news*.js
+    solid_check.py start_downloads.py sunderland-add*.md task-summary*.md
+    test_thunder.bat thunder_*.ps1 tk_*.py tmp_search.js try_keys.py
+    weekly-guide*.md 上课记录.md 观赛指南*.md 观赛指南*.md
+    观赛指南制作SOP.md
+) do (
+    if exist "%WORKSPACE%\%%F" copy /Y "%WORKSPACE%\%%F" "%REPO%\%%F" >> %LOG% 2>&1
+)
 
-echo [%DATESTR% %time%] Notification sent. >> %LOGFILE%
+cd /d %REPO%
+git add -A >> %LOG% 2>&1
+git status --short >> %LOG% 2>&1
+
+for /f "delims=" %%i in ('git status --short') do (
+    git commit -m "每日备份 %date% %time%" --author "QClaw Agent <agent@qclaw>" >> %LOG% 2>&1
+    git push origin qclaw-backup >> %LOG% 2>&1
+    echo [%date% %time%] 备份已推送 >> %LOG%
+    goto :done
+)
+
+:done
+echo [%date% %time%] 无变化，跳过推送 >> %LOG%
+endlocal
