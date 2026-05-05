@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-03T08:57:22.042Z",
+  "entries": {
+    "memory:memory/2026-05-01.md:47:70": {
+      "key": "memory:memory/2026-05-01.md:47:70",
+      "path": "memory/2026-05-01.md",
+      "startLine": 47,
+      "endLine": 70,
+      "source": "memory",
+      "snippet": "- 成功创建 weekly-football-guide skill，包含完整SOP和检查清单 - 验证所有文件写入成功： - SKILL.md (5111字节) - 完整流程+格式规范+常见错误表 - premier_league_api.py (2303字节) - 英超API封装 - prosearch_helper.js (1165字节) - ProSearch调用模板 - checklist.md (1246字节) - 每周五检查清单 - **核心教训已固化**：逐队查询赛程、ProSearch确认苏州东吴、完整20队积分榜、新闻100字、分条发送、减少emoji - 下次执行观赛指南时skill会自动触发，确保不再出错 --- ### 观赛指南Skill验证成功（20:51） - 按新建的 weekly-football-guide skill 执行完整流程 - 数据收集：football-data.org API（积分榜+四队赛程）+ ProSearch（苏州东吴、赔率、新闻） - 格式优化：减少emoji、用文字分隔线、避免微信格式问题 - 分5条发送：四队赛程、中甲苏超、完整积分榜、比分预测、新闻+其他焦点战 - **Skill运行正常**，所有规则已固化，下次执行不再出错 ### 观赛指南第三次重发（20:55） - 用户说\"没全收到\"，要求重发 - 已重发完整5条消息（赛程、积分榜、预测、新闻、焦点战） - 微信分条发送有时会被吞消息，这是已知问题，暂无好的解决方案",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.6079337832851629,
+      "maxScore": 0.6079337832851629,
+      "firstRecalledAt": "2026-05-03T08:57:22.042Z",
+      "lastRecalledAt": "2026-05-03T08:57:22.042Z",
+      "queryHashes": [
+        "de730c011b26"
+      ],
+      "recallDays": [
+        "2026-05-03"
+      ],
+      "conceptTags": [
+        "weekly-football-guide",
+        "skill.md",
+        "premier-league-api.py",
+        "prosearch-helper.js",
+        "checklist.md",
+        "football-data.org",
+        "成功",
+        "创建"
+      ]
+    },
+    "memory:memory/2026-05-01.md:23:51": {
+      "key": "memory:memory/2026-05-01.md:23:51",
+      "path": "memory/2026-05-01.md",
+      "startLine": 23,
+      "endLine": 51,
+      "source": "memory",
+      "snippet": "- 用户反馈：英超排行榜要完整20队、新闻每条扩写到100字、内容太长要分多条发送 - 重发时分4条：赛程对阵、完整积分榜、比分预测、5条新闻 - 分条发送避免微信转发被截断 --- ### 观赛指南第二次修正（20:33） - 用户指出：中甲苏州东吴5/3有比赛、缺少其他五大联赛焦点战 - ProSearch确认：南京城市 vs 苏州东吴 5/3 19:30（客场） - 补充其他焦点战：欧冠/欧联/欧协联半决赛次回合、西甲巴萨冲冠战、意甲国米冲冠 --- ### 观赛指南Skill创建（20:35） - 创建skill：weekly-football-guide - 路径：C:\\Users\\Administrator\\.qclaw\\skills\\weekly-football-guide\\ - 内容：SKILL.md（完整流程+格式规范）、scripts/（API工具+ProSearch封装）、references/checklist.md（检查清单） - 核心规则：逐队查询赛程、ProSearch确认苏州东吴、完整20队积分榜、新闻100字、分条发送 - **所有要求已固化为skill，下次执行不会出错** --- ### Skill创建完成（20:39） - 成功创建 weekly-football-guide skill，包含完整SOP和检查清单 - 验证所有文件写入成功： - SKILL.md (5111字节) - 完整流程+格式规范+常见错误表 - premier_league_api.py (2303字节) - 英超API封装 - pro",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.6019779115979429,
+      "maxScore": 0.6019779115979429,
+      "firstRecalledAt": "2026-05-03T08:57:22.042Z",
+      "lastRecalledAt": "2026-05-03T08:57:22.042Z",
+      "queryHashes": [
+        "de730c011b26"
+      ],
+      "recallDays": [
+        "2026-05-03"
+      ],
+      "conceptTags": [
+        "中甲苏州东吴5/3有比赛",
+        "5/3",
+        "欧冠/欧联/欧协联半决赛次回合",
+        "weekly-football-guide",
+        "skill.md",
+        "references/checklist.md",
+        "premier-league-api.py",
+        "用户"
+      ]
+    }
+  }
+}

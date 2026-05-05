@@ -28,3 +28,13 @@
 - 切尔西 vs 曼联(03:00)：主胜2.03 / 平3.55 / 客胜2.82（okooo）
 - 曼城 vs 阿森纳(23:30)：机构均势盘主胜2.15-2.25（多数机构）
 - 维拉 vs 桑德兰(21:00)：主胜1.61 / 平3.90 / 客胜5.25（威廉希尔）
+- 苏州东吴主场场地：昆山市体育中心（第6轮起）
+
+## 当前项目与关注
+
+- GitHub 仓库：https://github.com/caoqiubozhangchenqin2/qclaw
+
+## 经验与决策
+
+- `openclaw cron add` CLI在当前环境不稳定（QQBOT警告导致超时kill），但任务实际会写入；可先CLI创建再手动编辑 `C:\Users\Administrator\.qclaw\cron\jobs.json` 清理重复任务
+- git push 在 PowerShell 下可能误报 exit code 1（git 将正常提示写入 stderr），实际推送成功；wincred 凭证管理器已配置，GitHub 账号 `caoqiubozhangchenqin2` 认证正常
