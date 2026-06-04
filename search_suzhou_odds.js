@@ -1,14 +1,13 @@
 const {execSync} = require('child_process');
 const script = 'D:\\Qclaw\\resources\\openclaw\\config\\skills\\online-search\\scripts\\prosearch.cjs';
 const now = Math.floor(Date.now()/1000);
-const from = now - 172800;
+const from = now - 259200;
 
 const queries = [
-  ['阿森纳 伯恩利 赔率 胜平负', 3],
-  ['阿森纳 英超冠军 夺冠形势 2026年5月', 3],
-  ['英超 争冠 阿森纳 曼城 决战', 3],
-  ['中超 中甲 苏州东吴 最新', 3],
-  ['苏超 苏州 比赛 2026', 3],
+  ['苏州东吴 中甲 2026年5月 比赛', 3],
+  ['okooo 英超 阿森纳 伯恩利 赔率', 3],
+  ['okooo 英超 埃弗顿 桑德兰 赔率', 3],
+  ['okooo 英超 曼联 诺丁汉森林 赔率', 3],
 ];
 
 for (const [kw, limit] of queries) {

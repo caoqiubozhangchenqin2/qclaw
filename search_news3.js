@@ -4,11 +4,11 @@ const now = Math.floor(Date.now()/1000);
 const from = now - 172800;
 
 const queries = [
-  ['阿森纳 伯恩利 赔率 胜平负', 3],
-  ['阿森纳 英超冠军 夺冠形势 2026年5月', 3],
-  ['英超 争冠 阿森纳 曼城 决战', 3],
-  ['中超 中甲 苏州东吴 最新', 3],
-  ['苏超 苏州 比赛 2026', 3],
+  ['苏州东吴 榆林矿工旅投 2026年5月16日 中甲', 3],
+  ['阿森纳 伯恩利 赔率 胜平负 威廉希尔 5月', 3],
+  ['埃弗顿 桑德兰 赔率 胜平负 威廉希尔', 3],
+  ['曼联 诺丁汉森林 赔率 胜平负 威廉希尔', 3],
+  ['英超 桑德兰 保级 形势 2026年5月', 3],
 ];
 
 for (const [kw, limit] of queries) {
@@ -20,7 +20,7 @@ for (const [kw, limit] of queries) {
     if (d.success && d.data && d.data.docs) {
       d.data.docs.slice(0, limit).forEach(doc => {
         console.log(doc.title || '');
-        console.log(doc.passage.substring(0, 1000));
+        console.log(doc.passage.substring(0, 1200));
         console.log('---');
       });
     } else {

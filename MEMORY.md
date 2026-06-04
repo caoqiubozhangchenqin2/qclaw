@@ -29,6 +29,8 @@
 - 曼城 vs 阿森纳(23:30)：机构均势盘主胜2.15-2.25（多数机构）
 - 维拉 vs 桑德兰(21:00)：主胜1.61 / 平3.90 / 客胜5.25（威廉希尔）
 - 苏州东吴主场场地：昆山市体育中心（第6轮起）
+- **Skill 已创建**：`D:\Qclaw\resources\openclaw\config\skills\weekly-football-guide\SKILL.md`
+**新增模块**：WSBK（世界超级摩托车锦标赛）— 每周五观赛指南末尾追加，包含比赛时间（北京时间）、张雪机车制造商榜+车手榜，数据来源为ProSearch搜索
 
 ## 当前项目与关注
 
@@ -38,3 +40,6 @@
 
 - `openclaw cron add` CLI在当前环境不稳定（QQBOT警告导致超时kill），但任务实际会写入；可先CLI创建再手动编辑 `C:\Users\Administrator\.qclaw\cron\jobs.json` 清理重复任务
 - git push 在 PowerShell 下可能误报 exit code 1（git 将正常提示写入 stderr），实际推送成功；wincred 凭证管理器已配置，GitHub 账号 `caoqiubozhangchenqin2` 认证正常
+- **qBittorrent失效原因**：qBittorrent 因 Clash Verge 代理拦截 DHT 请求无法正常工作，磁力下载改用迅雷替代
+
+**数据来源**：
