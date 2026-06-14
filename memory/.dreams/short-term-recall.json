@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-12T08:15:02.724Z",
+  "updatedAt": "2026-06-13T02:59:09.501Z",
   "entries": {
     "memory:memory/2026-05-01.md:47:70": {
       "key": "memory:memory/2026-05-01.md:47:70",
@@ -4372,7 +4372,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -4405,7 +4405,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -4438,7 +4438,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -4471,7 +4471,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -4504,7 +4504,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -4537,7 +4537,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -4570,7 +4570,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -4603,7 +4603,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -4636,7 +4636,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -4669,7 +4669,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -4702,7 +4702,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -4735,7 +4735,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -4768,7 +4768,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -4801,7 +4801,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -4834,7 +4834,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -4867,7 +4867,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -4900,7 +4900,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -4933,7 +4933,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -4966,7 +4966,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -4999,7 +4999,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -5032,7 +5032,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -5065,7 +5065,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -5098,7 +5098,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -5131,7 +5131,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -5164,7 +5164,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -5195,7 +5195,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -5228,7 +5228,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -5261,7 +5261,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -5292,7 +5292,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -5325,7 +5325,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -5358,7 +5358,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -5391,7 +5391,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -5424,7 +5424,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -5457,7 +5457,7 @@
       "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-05T19:00:00.210Z",
-      "lastRecalledAt": "2026-06-12T08:14:23.843Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
       "queryHashes": [
         "b58cb32b4279"
       ],
@@ -15966,6 +15966,280 @@
         "结果",
         "摘要",
         "文件"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-12.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-12.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-06-12.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "User: [cron:a1b2c3d4-e5f6-7890-abcd-ef1234567890 每日备份] 执行每日备份：1) 将 C:\\Users\\Administrator\\.qclaw\\workspace-agent-71ec60f0 的文件同步到 C:\\Users\\Administrator\\.qclaw\\backup-qclaw 2) 在 backup-qclaw 目录执行 git add -A && git commit && git push origin qclaw-backup 3) 报告备份结果。注意：删除嵌套的memory/mem",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T08:19:13.431Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
+      "queryHashes": [
+        "3a37f9bd3c48"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "backup",
+        "备份",
+        "workspace-agent-71ec60f0",
+        "backup-qclaw",
+        "qclaw-backup",
+        "删除嵌套的memory/mem",
+        "user",
+        "cron"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-12.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-12.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-06-12.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "Assistant: **备份结果：** 文件同步完成，commit 成功（14 files changed, +1111/-265），但 `git push` 失败——远程仓库 `https://github.com/zhangchenqin/qclaw-backup.git` 不存在，需先在 GitHub 上创建该仓库后再重试。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T08:19:13.431Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
+      "queryHashes": [
+        "3a37f9bd3c48"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "backup",
+        "备份",
+        "assistant",
+        "结果",
+        "文件",
+        "同步",
+        "完成",
+        "commit"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-12.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-12.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-06-12.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "User: [cron:d1efa195-d00d-4d75-94d0-37784bae6f52 周五观赛指南] 请执行每周观赛指南任务：1. 加载 weekly-football-guide skill（D:\\Qclaw\\resources\\openclaw\\config\\skills\\weekly-football-guide\\SKILL.md）2. 按 skill 中的流程生成完整的本周观赛指南 3. 直接输出指南内容（不要调用 message 工具，不要回复 HEARTBEAT_OK） Current time: Friday, June 12t",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T08:19:13.431Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
+      "queryHashes": [
+        "3a37f9bd3c48"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "weekly-football-guide",
+        "skill.md",
+        "heartbeat-ok",
+        "user",
+        "cron",
+        "d1efa195",
+        "d00d",
+        "4d75"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-12.txt:25:25": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-12.txt:25:25",
+      "path": "memory/.dreams/session-corpus/2026-06-12.txt",
+      "startLine": 25,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "Assistant: Now let me search for Suzhou Dongwu and news simultaneously:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T08:19:13.431Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
+      "queryHashes": [
+        "3a37f9bd3c48"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "assistant",
+        "now",
+        "let",
+        "suzhou",
+        "dongwu",
+        "news",
+        "simultaneously"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-12.txt:26:26": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-12.txt:26:26",
+      "path": "memory/.dreams/session-corpus/2026-06-12.txt",
+      "startLine": 26,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "Assistant: 路径更正，脚本也更新：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T08:19:13.431Z",
+      "lastRecalledAt": "2026-06-12T08:19:13.431Z",
+      "queryHashes": [
+        "3a37f9bd3c48"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "assistant",
+        "路径",
+        "更正",
+        "脚本",
+        "更新"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-12.txt:27:27": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-12.txt:27:27",
+      "path": "memory/.dreams/session-corpus/2026-06-12.txt",
+      "startLine": 27,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "User: [cron:d1efa195-d00d-4d75-94d0-37784bae6f52 周五观赛指南] 请执行每周观赛指南任务：1. 加载 weekly-football-guide skill（D:\\Qclaw\\resources\\openclaw\\config\\skills\\weekly-football-guide\\SKILL.md）2. 按 skill 中的流程生成完整的本周观赛指南 3. 直接输出指南内容（不要调用 message 工具，不要回复 HEARTBEAT_OK） Current time: Friday, June 12t",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T02:59:09.501Z",
+      "lastRecalledAt": "2026-06-13T02:59:09.501Z",
+      "queryHashes": [
+        "3a37f9bd3c48"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "weekly-football-guide",
+        "skill.md",
+        "heartbeat-ok",
+        "user",
+        "cron",
+        "d1efa195",
+        "d00d",
+        "4d75"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-12.txt:28:28": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-12.txt:28:28",
+      "path": "memory/.dreams/session-corpus/2026-06-12.txt",
+      "startLine": 28,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "Assistant: 好，开始执行！先并行获取英超积分榜和四队赛程：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T02:59:09.501Z",
+      "lastRecalledAt": "2026-06-13T02:59:09.501Z",
+      "queryHashes": [
+        "3a37f9bd3c48"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "assistant",
+        "开始",
+        "执行",
+        "并行",
+        "获取",
+        "积分",
+        "四队"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-13.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-13.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-06-13.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: [cron:d1efa195-d00d-4d75-94d0-37784bae6f52 周五观赛指南] 请执行每周观赛指南任务：1. 加载 weekly-football-guide skill（D:\\Qclaw\\resources\\openclaw\\config\\skills\\weekly-football-guide\\SKILL.md）2. 按 skill 中的流程生成完整的本周观赛指南 3. 直接输出指南内容（不要调用 message 工具，不要回复 HEARTBEAT_OK） Current time: Saturday, June 1",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T02:59:09.501Z",
+      "lastRecalledAt": "2026-06-13T02:59:09.501Z",
+      "queryHashes": [
+        "d387904341e2"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "weekly-football-guide",
+        "skill.md",
+        "heartbeat-ok",
+        "user",
+        "cron",
+        "d1efa195",
+        "d00d",
+        "4d75"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-13.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-13.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-06-13.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: [cron:a1b2c3d4-e5f6-7890-abcd-ef1234567890 每日备份] 执行每日备份：1) 将 C:\\Users\\Administrator\\.qclaw\\workspace-agent-71ec60f0 的文件同步到 C:\\Users\\Administrator\\.qclaw\\backup-qclaw 2) 在 backup-qclaw 目录执行 git add -A && git commit && git push origin qclaw-backup 3) 报告备份结果。注意：删除嵌套的memory/mem",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T02:59:09.501Z",
+      "lastRecalledAt": "2026-06-13T02:59:09.501Z",
+      "queryHashes": [
+        "d387904341e2"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "backup",
+        "备份",
+        "workspace-agent-71ec60f0",
+        "backup-qclaw",
+        "qclaw-backup",
+        "删除嵌套的memory/mem",
+        "user",
+        "cron"
       ]
     }
   }
